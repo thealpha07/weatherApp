@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945077978506",
+    "project_id": "weatherapi-ea6bb",
+    "storage_bucket": "weatherapi-ea6bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945077978506:android:0f1c68d923ba2f8e597473",
+        "android_client_info": {
+          "package_name": "com.example.weather_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945077978506-j0olhkkr6irboo86ruh5oee3gto3v1sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weather_api",
+            "certificate_hash": "ab4679b860a3bda012cfb0bb13cff66a19dadd05"
+          }
+        },
+        {
+          "client_id": "945077978506-tglihvgm4kpnpph3usgd0ulrev5kvtlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmoY7MIpQg2GKnxzi2BY2UqokrdNGUnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945077978506-tglihvgm4kpnpph3usgd0ulrev5kvtlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
